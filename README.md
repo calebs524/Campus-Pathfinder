@@ -1,1 +1,4 @@
-# Open-Street-Maps-II
+# Campus-Pathfinder
+This application is used to find the shortest path between two buildings on a college campus. For this instance, we are using both the University of Illinois Chicago (UIC) and University of Illinois Urbana Champaign (UIUC) campus's. The application will allow the user to select their campus of choice, and choose two buildings in on the campus, and will explore the shortest path between the two buildings.
+
+This application was developed using C++, and reads in OSM (Open Street Maps) and XML files. The application uses various data structures and alogrithms to find the shortest path between the two buildings, including Dijkstra's Algorithm.
